@@ -1,0 +1,10 @@
+.bg{
+    background: url('../images/bg1.jpg');
+    width: 200%;
+    height: 85vh;
+    background-size: 100%;
+}
+
+columnspace {
+    column-gap: 40px;
+  }

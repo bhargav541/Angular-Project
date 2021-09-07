@@ -1,0 +1,10 @@
+.form-container{
+    position:absolute;
+    top: 5vh;
+    padding: 30px;
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-right:25%;
+    width: 125%;
+}
+
